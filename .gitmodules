@@ -1,0 +1,6 @@
+[submodule "astro-ai-backend"]
+	path = astro-ai-backend
+	url = git@github.com:zem-fsss-2023/astro-ai-backend.git
+[submodule "astro-ai-frontend"]
+	path = astro-ai-frontend
+	url = https://github.com/zem-fsss-2023/astro-ai-frontend
