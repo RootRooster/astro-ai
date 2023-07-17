@@ -5,7 +5,7 @@ zodiac sign, utilizing the power of Chat GPT. It provides personalized predictio
 major categories: money, love, and health. The application is built with Angular and Spring 
 Boot as the frontend and backend technologies, respectively.
 <hr>
-Note that this is a proof of concept webside and is not yet ready for production.
+Note that this is a proof of concept webside and is not yet ready for production. + the API key in there is disabled and is present only for reference. Add your own OpenAI api key in the `/astro-ai-backend/astro/src/main/application.properties` file.
 
 ## Features
 
